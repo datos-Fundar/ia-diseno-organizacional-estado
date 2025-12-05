@@ -3,7 +3,7 @@
 ## Un análisis con Inteligencia Artificial de la reconfiguración del Estado argentino 2023-2025
 
 <!-- CAMBIAR "https://place-hold.it/1920x1080" POR EL LINK A LA IMAGEN CORRESPONDIENTE -->
-[![Anatomía de la motosierra](https://place-hold.it/1920x1080)](https://fund.ar) <!-- LINK A LA PUBLICACIÓN -->
+[![Anatomía de la motosierra](https://place-hold.it/1920x1080)](https://fund.ar/publicacion/anatomia-de-la-motosierra-un-analisis-con-inteligencia-artificial-de-la-reconfiguracion-del-estado-argentino-2023-2025/) <!-- LINK A LA PUBLICACIÓN -->
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%20NC%20SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 <!-- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1234.svg)](https://zenodo.org/doi/10.5281/zenodo.11186044) -->
@@ -33,7 +33,7 @@
 
 ### Introducción
 
-Este repositorio forma parte del trabajo ***Anatomía de la motosierra: Un análisis con Inteligencia Artificial de la reconfiguración del Estado argentino 2023-2025*** (Link a la publicación) publicado por el Área de Datos de [Fundar](https://fund.ar). En dicho trabajo nos propusimos analizar la fragmentación y superposición de funciones de las distintas unidades estatales, a raíz de las diferentes reformas que afectaron al organigrama estatal y que fueron llevadas a cabo por Federico Sturzenegger en su rol de Ministro de Desregulación y Transformación del Estado durante la presidencia de Javier Milei, en particular durante la vigencia de las facultades extraordinarias aprobadas en la Ley Bases.
+Este repositorio forma parte del trabajo ***[Anatomía de la motosierra: Un análisis con Inteligencia Artificial de la reconfiguración del Estado argentino 2023-2025](https://fund.ar/publicacion/anatomia-de-la-motosierra-un-analisis-con-inteligencia-artificial-de-la-reconfiguracion-del-estado-argentino-2023-2025/)*** publicado por [Fundar](https://fund.ar). En dicho trabajo nos propusimos analizar la fragmentación y superposición de funciones de las distintas unidades estatales, a raíz de las diferentes reformas que afectaron al organigrama estatal y que fueron llevadas a cabo por Federico Sturzenegger en su rol de Ministro de Desregulación y Transformación del Estado durante la presidencia de Javier Milei, en particular durante la vigencia de las facultades extraordinarias aprobadas en la Ley Bases.
 
 Para ello, consideramos como punto de partida la estructura estatal al **09/12/2023** (previo a la asunción de Milei) y la comparamos contra la misma al **08/07/2025** (vencimiento de las facultades extraordinarias). Ambos organigramas fueron recontruídos utilizando la Base Integrada de Mapa del Estado (BIME) vigente a las fechas mencionadas.
 

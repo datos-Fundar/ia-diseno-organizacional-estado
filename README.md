@@ -3,7 +3,7 @@
 [![Anatomía de la motosierra](https://fund.ar/wp-content/uploads/2022/12/iStock-482378358-1.jpg)](https://fund.ar/publicacion/anatomia-de-la-motosierra-un-analisis-con-inteligencia-artificial-de-la-reconfiguracion-del-estado-argentino-2023-2025/)
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%20NC%20SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-<!-- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1234.svg)](https://zenodo.org/doi/10.5281/zenodo.11186044) -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17834758.svg)](https://zenodo.org/doi/10.5281/zenodo.17834758)
 
 ## Tabla de contenidos
 

@@ -1,4 +1,4 @@
-# Anatomía de la motosierra: Un análisis con Inteligencia Artificial de la reconfiguración del Estado argentino 2023-2025
+# Un análisis con Inteligencia Artificial de la reconfiguración del Estado argentino 2023-2025
 
 [![Anatomía de la motosierra](https://fund.ar/wp-content/uploads/2022/12/iStock-482378358-1.jpg)](https://fund.ar/publicacion/anatomia-de-la-motosierra-un-analisis-con-inteligencia-artificial-de-la-reconfiguracion-del-estado-argentino-2023-2025/)
 
@@ -7,7 +7,7 @@
 
 ## Tabla de contenidos
 
-- [Anatomía de la motosierra: Un análisis con Inteligencia Artificial de la reconfiguración del Estado argentino 2023-2025](#anatomía-de-la-motosierra-un-análisis-con-inteligencia-artificial-de-la-reconfiguración-del-estado-argentino-2023-2025)
+- [Un análisis con Inteligencia Artificial de la reconfiguración del Estado argentino 2023-2025](#anatomía-de-la-motosierra-un-análisis-con-inteligencia-artificial-de-la-reconfiguración-del-estado-argentino-2023-2025)
   - [Tabla de contenidos](#tabla-de-contenidos)
   - [Introducción](#introducción)
   - [Preparación del entorno](#preparación-del-entorno)
@@ -29,7 +29,7 @@
 
 ## Introducción
 
-Este repositorio forma parte del trabajo [***Anatomía de la motosierra: Un análisis con Inteligencia Artificial de la reconfiguración del Estado argentino 2023-2025***](https://fund.ar/publicacion/anatomia-de-la-motosierra-un-analisis-con-inteligencia-artificial-de-la-reconfiguracion-del-estado-argentino-2023-2025/) publicado por [Fundar](https://fund.ar). En dicho trabajo nos propusimos analizar la fragmentación y superposición de funciones de las distintas unidades estatales, a raíz de las diferentes reformas que afectaron al organigrama estatal y que fueron llevadas a cabo por Federico Sturzenegger en su rol de Ministro de Desregulación y Transformación del Estado durante la presidencia de Javier Milei, en particular durante la vigencia de las facultades extraordinarias aprobadas en la Ley Bases.
+Este repositorio forma parte del trabajo [***Un análisis con Inteligencia Artificial de la reconfiguración del Estado argentino 2023-2025***](https://fund.ar/publicacion/anatomia-de-la-motosierra-un-analisis-con-inteligencia-artificial-de-la-reconfiguracion-del-estado-argentino-2023-2025/) publicado por [Fundar](https://fund.ar). En dicho trabajo nos propusimos analizar la fragmentación y superposición de funciones de las distintas unidades estatales, a raíz de las diferentes reformas que afectaron al organigrama estatal y que fueron llevadas a cabo por Federico Sturzenegger en su rol de Ministro de Desregulación y Transformación del Estado durante la presidencia de Javier Milei, en particular durante la vigencia de las facultades extraordinarias aprobadas en la Ley Bases.
 
 Para ello, consideramos como punto de partida la estructura estatal al **09/12/2023** (previo a la asunción de Milei) y la comparamos contra la misma al **08/07/2025** (vencimiento de las facultades extraordinarias). Ambos organigramas fueron recontruídos utilizando la Base Integrada de Mapa del Estado (BIME) vigente a las fechas mencionadas.
 
